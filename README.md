@@ -39,7 +39,7 @@ This directory documents the four datasets used to evaluate the **HDMC (Hybrid D
 
 | Dataset | Origin | Availability in this repository | Official source |
 |---|---|---|---|
-| **SOR** | Collected by the study authors using an optical fiber laboratory testbed | **Author-owned data will be provided here**, subject to applicable institutional permissions | This repository (`data/`) |
+| **SOR** | Collected by the study authors using an optical fiber laboratory testbed | **Author-owned data will be provided here**, subject to applicable institutional permissions | This repository (`dataset/`) |
 | **OTDR** | Abdelli et al. | **Not redistributed**; access to the original files has not been confirmed | [IEEE DataPort dataset record](https://doi.org/10.21227/PDPN-1B78) |
 | **HardFailure** | ARNO testbed, InRete Lab, Scuola Superiore Sant'Anna | **Not redistributed**; obtain from the original repository | [HardFailure_dataset.csv](https://github.com/Network-And-Services/optical-failure-dataset/blob/main/HardFailure_dataset.csv) |
 | **SoftFailure** | ARNO testbed, InRete Lab, Scuola Superiore Sant'Anna | **Not redistributed**; obtain from the original repository | [SoftFailure_dataset.csv](https://github.com/Network-And-Services/optical-failure-dataset/blob/main/SoftFailure_dataset.csv) |
